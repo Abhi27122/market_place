@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282395321210",
+    "project_id": "brand-kiln-caf07",
+    "storage_bucket": "brand-kiln-caf07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282395321210:android:9ab1777e4669860f172cc3",
+        "android_client_info": {
+          "package_name": "com.example.market_place"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282395321210-1o928p49hqe06vvre0i7bmhdaq6vn5gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2md9vHoDzWXkVETqAwRz6i0q3QpJYyWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282395321210-1o928p49hqe06vvre0i7bmhdaq6vn5gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
